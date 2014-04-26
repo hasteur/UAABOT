@@ -1,3 +1,7 @@
+#UAABOT's rules
+
+login-data/
+user-config.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
